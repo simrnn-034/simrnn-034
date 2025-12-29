@@ -18,7 +18,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simrnn-034&theme=dark&show_icons=true&count_private=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simrnn-034&theme=dark&show_icons=true&count_private=false)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simrnn-034&theme=dark&hide_border=false)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simrnn-034&theme=dark&layout=compact)
 

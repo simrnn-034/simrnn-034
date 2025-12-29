@@ -19,13 +19,17 @@
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simrnn-034&theme=dark&show_icons=true&count_private=false)  
+![GitHub Streak](https://streak-stats.demolab.com?user=simrnn-034&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simrnn-034&theme=dark&hide_border=false)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simrnn-034&theme=dark&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=simrnn-034&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=simrnn-034&theme=darkhub)
+
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=simrnn-034&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Created with ❤️ by Simranpreet Kaur -->

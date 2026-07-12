@@ -1,7 +1,7 @@
 # Hi, I am Simranpreet Kaur 👋  
 🎓 CS Student | 💡 Curious Mind | ✨ Dreaming Big  
 
-🛠️ C • C++ • Python • Web Development  
+🛠️ Java • C • Python • Web Development  
 🌱 Currently Learning: Data Structures & Algorithms  
 💻 Building: Real-world projects and mini applications  
 🎯 Goal: Master Full-Stack Development and Problem Solving  
